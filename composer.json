@@ -1,0 +1,11 @@
+{
+	"name": "fr3nch13/vendor-tipsy",
+	"type": "component",
+	"keywords": ["jquery", "tooltip"],
+	"description": "From: https://github.com/jaz303/tipsy",
+	"homepage": "https://github.com/fr3nch13/vendor-tipsy",
+    	"require": {
+		"components/jquery": "*",
+		"components/jqueryui": "*"
+	}
+}
